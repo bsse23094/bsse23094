@@ -1,35 +1,75 @@
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F75C7E&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ahmed+Ayyan+%7C+The+Dark+Developer;Frontend+%26+Full-Stack+Developer;Batman+of+Clean+Code;Fighting+bad+UX+one+line+at+a+time)](https://git.io/typing-svg)
+<div align="center">
+   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" />
+</div>
 
----
+<h3 align="center">
+  Hi, I'm Ahmed Ayyan — <em>The Dark Developer</em> 🦇
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
-# 🦇 Gotham’s Dark Developer
-
-🌌 Software Engineering student at **Information Technology University (ITU)**  
-💻 Frontend Developer specialized in **Angular, React, Node.js, and UI/UX**  
-⚡ Passionate about **creative digital solutions, Gotham-inspired design, and impactful software**  
-
----
-
-## 🛠️ My Utility Belt
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
----
-
-## 📊 GitHub Stats & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bsse23094&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bsse23094&theme=radical" alt="GitHub Streak" height="165"/>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20Developer;Full-Stack%20Engineer;Batman%20of%20Clean%20Code;Fighting%20Bad%20UX%20One%20Line%20At%20A%20Time;Always%20Learning%20New%20Things!&center=true&width=600&height=45&color=F75C7E&font=Fira%20Code">
+  </a>
+</p>
+
+---
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**About Me**
+
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
+✔ Software Engineering student at **Information Technology University (ITU)** (2023–Present)  
+✔ **Angular Frontend Developer** @ CyberSoft Solutions (2025–Present)  
+✔ Freelance **Frontend Developer** (2024–2025)  
+✔ Active member of **GDG ITU Campus**  
+✔ Organizer of **Code Rush Competition** (problem design, platform setup, troubleshooting)  
+✔ Passionate about **UI/UX, full-stack apps, and dark Gotham-inspired design**  
+✔ Fun fact: *I debug at night — just like Batman fights crime in the shadows*  
+
+---
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**My Utility Belt**
+
+<h3>Frontend</h3>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+
+<h3>Backend</h3>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
+
+<h3>Databases</h3>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img height="40" src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg"></code>
+
+<h3>Deployment & Hosting</h3>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/vercel/vercel-ar21.svg"></code>
+<code><img height="40" src="https://icon.icepanel.io/Technology/png-shadow-512/Firebase.png"></code>
+<code><img height="40" src="https://icon.icepanel.io/Technology/svg/AWS.svg"></code>
+
+<h3>Tools & Platforms</h3>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/adobe_photoshop/adobe_photoshop-ar21.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-ar21.svg"></code>
+
+---
+
+## 📊 GitHub Stats
+<img width="55%" align="right" alt="GitHub banner" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=bsse23094&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bsse23094&theme=radical" height="165" />
 </p>
 
 <p align="center">
@@ -38,14 +78,14 @@
 
 ---
 
-## 🏆 Trophies
+## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bsse23094&theme=darkhub&no-frame=true&margin-w=15" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=bsse23094&theme=darkhub&no-frame=true&margin-w=15" />
 </p>
 
 ---
 
-## 🔥 Featured Projects
+## 🗂 Featured Projects
 - 🌐 [Ideal Janitorial Services](https://idealjanitorialservices.org/)  
 - 🎬 [Cinetex – Movie Streaming](https://bsse23094.github.io/cinetex_/search)  
 - 🍴 [Restaurant Management System](https://bsse23094.github.io/RMS/)  
@@ -54,10 +94,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bsse23094/bsse23094/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
 
 ---
 
@@ -66,8 +102,9 @@
 
 ---
 
-![Batman Banner](https://media.giphy.com/media/UvPvsX9oMlMWs/giphy.gif)
+![footer](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/footer.webp)
 
 <p align="center">
   ⭐️ *From [Ahmed Ayyan](https://github.com/bsse23094) — Gotham’s Dark Developer 🦇*
 </p>
+
